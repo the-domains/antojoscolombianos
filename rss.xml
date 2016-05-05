@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Antojos Colombianos Restaurant & Bakery]]></title>
         <description><![CDATA[Antojos Colombianos Restaurant & Bakery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antojoscolombianos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 07:36:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 07:38:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antojoscolombianos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Antojos Colombianos Logo]]></title>
-            <description><![CDATA[<article><h1>Antojos Colombianos Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07994aa60b342f90860995ed0c3957f0250bf2b3.jpg"></article>]]></description>
-            <link>undefinedantojos-colombianos-logo/index.html</link>
+            <title><![CDATA[Logo]]></title>
+            <description><![CDATA[<article><h1>Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07994aa60b342f90860995ed0c3957f0250bf2b3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/antojoscolombianos/antojos-colombianos-logo/index.html</link>
             <guid isPermaLink="false">ccb4ef98-542e-4d9d-93d3-6b441742f9a3</guid>
-            <pubDate>Thu, 05 May 2016 07:35:58 GMT</pubDate>
+            <pubDate>Thu, 05 May 2016 07:38:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
