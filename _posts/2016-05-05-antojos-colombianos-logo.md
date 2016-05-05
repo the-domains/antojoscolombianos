@@ -5,13 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T07:27:05.687Z'
-dateModified: '2016-05-05T07:26:56.598Z'
-title: ''
+datePublished: '2016-05-05T07:35:58.134Z'
+dateModified: '2016-05-05T07:35:54.731Z'
+title: Antojos Colombianos Logo
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-05-05-antojos-colombianos-logo.md
 authors: []
 publisher:
   name: null
@@ -19,8 +18,9 @@ publisher:
   url: null
   favicon: null
 starred: false
+sourcePath: _posts/2016-05-05-antojos-colombianos-logo.md
 url: antojos-colombianos-logo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5aa79d-2c68-4591-b973-86409f7a40b2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cd115f7-1024-4b0d-9734-d530d8ccddee.jpg)
