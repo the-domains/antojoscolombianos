@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Antojos Colombianos Restaurant & Bakery]]></title>
+        <description><![CDATA[Antojos Colombianos Restaurant & Bakery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 07:36:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Antojos Colombianos Logo]]></title>
+            <description><![CDATA[<article><h1>Antojos Colombianos Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07994aa60b342f90860995ed0c3957f0250bf2b3.jpg"></article>]]></description>
+            <link>undefinedantojos-colombianos-logo/index.html</link>
+            <guid isPermaLink="false">ccb4ef98-542e-4d9d-93d3-6b441742f9a3</guid>
+            <pubDate>Thu, 05 May 2016 07:35:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
