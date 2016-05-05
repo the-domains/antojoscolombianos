@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Antojos Colombianos]]></title>
         <description><![CDATA[Antojos Colombianos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antojoscolombianos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 07:25:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 07:27:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antojoscolombianos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Antojos Colombianos Logo]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/022676fa-d890-4cb9-bd00-da7bf7eca03c.png">]]></description>
-            <link>undefinedantojos-colombianos-logo/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5aa79d-2c68-4591-b973-86409f7a40b2.jpg">]]></description>
+            <link>https://thegrid.ai/antojoscolombianos/antojos-colombianos-logo/index.html</link>
             <guid isPermaLink="false">8485907a-8de9-4df9-a7b9-41c2d025debb</guid>
-            <pubDate>Thu, 05 May 2016 07:25:23 GMT</pubDate>
+            <pubDate>Thu, 05 May 2016 07:27:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
